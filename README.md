@@ -31,4 +31,4 @@ Projeto desenvolvido como atividade avaliativa do
 
 ## 👤 Autor
 **Ronayrton Rocha**  
-GitHub: https://github.com/seuusuario
+GitHub: https://github.com/ronayrton/
